@@ -1,1 +1,2 @@
-
+Project 4 - Bisection Method Algorithm
+In this develped a algorithm or a method to improve the performance and usefulnness of bisection method algorithm. In bisection we need to guess the initial interval for root and it is so random to guess it. We will not sure about finding root in it so i developed a method to find this interval and this interval gives good results.
