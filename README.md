@@ -22,11 +22,16 @@ The dataset contains 43 different classes of images.
 
 Classes are as listed below:
 
-( 0, b'Speed limit (20km/h)') ( 1, b'Speed limit (30km/h)')
-( 2, b'Speed limit (50km/h)') ( 3, b'Speed limit (60km/h)')
-( 4, b'Speed limit (70km/h)') ( 5, b'Speed limit (80km/h)')
-( 6, b'End of speed limit (80km/h)') ( 7, b'Speed limit (100km/h)')
-( 8, b'Speed limit (120km/h)') ( 9, b'No passing')
+( 0, b'Speed limit (20km/h)') 
+( 1, b'Speed limit (30km/h)')
+( 2, b'Speed limit (50km/h)') 
+( 3, b'Speed limit (60km/h)')
+( 4, b'Speed limit (70km/h)') 
+( 5, b'Speed limit (80km/h)')
+( 6, b'End of speed limit (80km/h)') 
+( 7, b'Speed limit (100km/h)')
+( 8, b'Speed limit (120km/h)') 
+( 9, b'No passing')
 (10, b'No passing for vehicles over 3.5 metric tons')
 (11, b'Right-of-way at the next intersection') (12, b'Priority road')
 (13, b'Yield') (14, b'Stop') (15, b'No vehicles')
